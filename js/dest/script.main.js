@@ -1,0 +1,1 @@
+console.log('Privet 1');;console.log('privet 2');
